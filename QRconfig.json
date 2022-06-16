@@ -1,0 +1,16 @@
+{
+    "origin":"generate/origin/origin.jpg",
+    "words":"",
+    "picture":"generate/pic/kabo",
+    "save_dir":"QRcode/",
+    "save_name":"test",
+    "ext":".gif",
+    "colorized":"true",
+    "level":"H",
+    "version":13,
+    "contrast":1.0,
+    "brightness":1.0,
+    "if_covered":"false",
+    "if_pay":"true",
+    "if_parse":"false"
+}

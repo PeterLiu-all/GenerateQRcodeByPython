@@ -1,0 +1,2 @@
+# GenerateQRcodeByPython
+用python生成二维码，使用json文件配置
